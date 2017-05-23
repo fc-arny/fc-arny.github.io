@@ -1,1 +1,1 @@
-# Arthur <fc-arny> Scheglov
+# Arthur \<fc_arny\> Scheglov
